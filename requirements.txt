@@ -3,7 +3,7 @@ botocore
 cachetools
 certifi
 chardet
-click
+click<8.0,>=7.0
 docutils
 future
 futures
